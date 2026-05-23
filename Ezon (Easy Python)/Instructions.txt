@@ -1,0 +1,142 @@
+🌟 What this is
+
+EZON OS is a fake “computer inside a terminal”.
+
+When you run it, it feels like:
+
+a tiny operating system
+with files
+a coding mode
+and a “cloud save link” system
+
+Everything runs in one Python file.
+
+Nothing installs. Nothing saves on your real computer. It all lives inside the program while it is open.
+
+☁️ The “Cloud Link” idea (important)
+
+Instead of usernames or accounts, EZON uses:
+
+👉 save links
+
+A save link looks like:
+
+EZON-A8D3K9XQ
+
+Think of it like:
+
+a checkpoint in a game
+a Google Docs link
+a “save slot code”
+What you can do with it:
+create a new link (new world)
+load a link (go back to a world)
+everything updates automatically while you use it
+
+So you don’t need to manually save all the time — it auto-saves.
+
+💻 What you can do in EZON
+
+When it runs, you type commands like:
+
+📁 File system (like a mini computer)
+edit → write text
+save file1 → store it
+open file1 → read it
+dir → see files
+del file1 → delete file
+☁️ Save system (links)
+/link → show your current save code
+/newlink → create a fresh world
+/load CODE → load an old world
+🧠 Coding mode (EZON language)
+
+You can enter a mini coding environment:
+
+run coder
+
+Inside it you can type:
+
+say hello → prints text
+set x 10 → makes a variable
+add x 5 → increases value
+sub x 2 → decreases value
+ask name → user input
+show x → display variable
+
+It behaves like Scratch but text-based.
+
+⚙️ System
+help → shows all commands
+exit → closes program
+🖥️ How to run it on your real computer (IMPORTANT)
+Step 1 — Install Python
+
+Go to:
+https://python.org/downloads
+
+Install it and make sure:
+✔ “Add Python to PATH” is checked
+
+Step 2 — Create the file
+Open Notepad
+Paste the code you were given
+Save it as:
+ezon.py
+
+⚠️ IMPORTANT:
+
+Save type = “All Files”
+NOT .txt
+Step 3 — Open terminal (real one)
+
+On Windows:
+
+Press:
+
+Win + R
+
+Type:
+
+cmd
+
+Press Enter
+
+Step 4 — Go to file location
+
+If the file is on Desktop:
+
+cd Desktop
+
+If it's in a folder:
+
+cd path\to\folder
+Step 5 — Run EZON OS
+
+Type:
+
+python ezon.py
+
+or:
+
+py ezon.py
+🎮 What happens when it starts
+
+You will see:
+
+a boot screen
+then a command prompt like:
+EZON>
+
+Now you can type commands and interact with your fake OS.
+
+🧠 Simple mental model
+
+Think of EZON like:
+
+A tiny fake computer inside your real computer
+
+Files = stored in memory
+Save links = checkpoints
+Coder = mini programming language
+Terminal = your control panel
