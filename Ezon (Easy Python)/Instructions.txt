@@ -1,4 +1,6 @@
-🌟 What this is
+🌟 What this is 
+(This instruction is for terminal version,
+     code runner version might be a bit different & app version doesn't need python to run, it's a click-and-go app)
 
 EZON OS is a fake “computer inside a terminal”.
 
@@ -11,7 +13,8 @@ and a “cloud save link” system
 
 Everything runs in one Python file.
 
-Nothing installs. Nothing saves on your real computer. It all lives inside the program while it is open.
+Nothing installs. Nothing saves on your real computer. 
+It all lives inside the program while it is open.
 
 ☁️ The “Cloud Link” idea (important)
 
